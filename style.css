@@ -1,0 +1,9 @@
+.jumbotron 
+{
+  height: 50%;
+  background-image: url(jumbopic.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
